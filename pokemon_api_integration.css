@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.jumbotron {
+    background-color: #007bff;
+    color: white;
+}
+
+#homepage {
+    text-align: center;
+    margin-top: 50px;
+}
